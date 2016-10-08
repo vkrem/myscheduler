@@ -1,2 +1,0 @@
-# myscheduler
-Scheduler project
